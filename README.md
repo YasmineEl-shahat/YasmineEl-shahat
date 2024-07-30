@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yasmine El-shahat</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yasmineel-shahat&label=Profile%20views&color=0e75b6&style=flat" alt="yasmineel-shahat" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yasmineel-shahat" alt="yasmineel-shahat" /></a> </p>
-
 - 🔭 I’m currently working at [Blackrock Technologies](https://www.linkedin.com/company/blackrocktechnologies)
 
 - 🌱 I’m currently learning **Open Source technologies**

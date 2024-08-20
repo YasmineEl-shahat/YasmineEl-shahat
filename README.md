@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **yasmenelshahat754@gmail.com**
 
-- 📄 Know about my experiences [my resume](https://drive.google.com/file/d/1LPzDrAhYZIXuUmDp3rXs6xT5eghSz0by/view?usp=drive_link)
+- 📄 Know about my experiences [my resume](https://drive.google.com/file/d/1yrYyUdC3EDR-vFZedhWfKIx3gepcI2N9/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

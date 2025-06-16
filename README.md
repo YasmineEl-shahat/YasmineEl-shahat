@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yasmine El-shahat</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 
-- 🔭 I’m currently working at [Blackrock Technologies](https://www.linkedin.com/company/blackrocktechnologies)
+- 🔭 I’m currently working at [Nabu](https://nabuapps.com/)
 
 - 🌱 I’m currently learning **Open Source technologies**
 
